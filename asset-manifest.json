@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/multi-weather-app/static/css/main.1d30545b.css",
+    "main.js": "/multi-weather-app/static/js/main.f000cc9d.js",
+    "static/js/787.1a626c8e.chunk.js": "/multi-weather-app/static/js/787.1a626c8e.chunk.js",
+    "static/media/cold-bg.jpg": "/multi-weather-app/static/media/cold-bg.c4320be4e9cf8312dc02.jpg",
+    "static/media/warm-bg.jpg": "/multi-weather-app/static/media/warm-bg.793cbc16a6a3ddbda662.jpg",
+    "index.html": "/multi-weather-app/index.html",
+    "main.1d30545b.css.map": "/multi-weather-app/static/css/main.1d30545b.css.map",
+    "main.f000cc9d.js.map": "/multi-weather-app/static/js/main.f000cc9d.js.map",
+    "787.1a626c8e.chunk.js.map": "/multi-weather-app/static/js/787.1a626c8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d30545b.css",
+    "static/js/main.f000cc9d.js"
+  ]
+}
